@@ -12,4 +12,4 @@ here **https://github.com/1abdelhalim/Wuzzuf-Web-Scraping**
 here **https://github.com/1abdelhalim/Wuzzuf-Web-Scraping**
 
 ### Sales Analysis & Presentation
-here **https://github.com/1abdelhalim/Sales-Data-Analysis*
+here **https://github.com/1abdelhalim/Sales-Data-Analysis**
